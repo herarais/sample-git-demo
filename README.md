@@ -2,6 +2,11 @@
 
 ## basic git command execution 
 
-```sql
-  SELECT From Table_Name
+### Stage file
+```bash
+  git add file.txt
+```
+### Commit file to Local Repository
+```bash
+  git commit -m "first commit"
 ```
